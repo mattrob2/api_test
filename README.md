@@ -11,7 +11,7 @@ How to run:
 -----------
 Run index.js using nodejs.
 
-clone the repo or download the zip.
-cd dir
-npm install
-node index.js
+- clone the repo or download the zip
+- cd dir
+- npm install
+- node index.js
